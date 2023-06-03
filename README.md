@@ -1,1 +1,2 @@
 # CAPE-Ibukun-2023
+Hi!👋🏾 My name is Ibukun Adeloye. I am a rising sophomore Electrical Engineering major and Computer Science Minor at Howard University from Nigeria🇳🇬. I love all things technology💻📱, meeting new people👩🏾‍🤝‍👩🏼 and taking long walks🚶🏾‍♀️. A fun fact about me is that I was born in Ireland😊. 
