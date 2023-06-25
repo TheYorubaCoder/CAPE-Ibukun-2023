@@ -28,8 +28,13 @@
     </style>
   </head>
   <body>
-    <img src="/CAPE-Ibukun-2023/ima/ibukun.jpeg" />
+    <img id="Pic" src="/CAPE-Ibukun-2023/ima/ibukun.jpeg" />
+    <center>
+      <button onclick=picture() class="About">click for more images</button>
+    </center>
+    
     <p class="Head">WELCOME!</p>
+    
     <center>
       <p class="About">
         Hi!👋🏾 My name is Ibukun Adeloye. I am a rising sophomore Electrical
@@ -38,6 +43,12 @@
         taking long walks🚶🏾‍♀️. A fun fact about me is that I was born in
         Ireland😊.
       </p>
+
+      <script>
+        function picture(){
+          document.getElementById("Pic").src="/CAPE-Ibukun-2023/ima/ib2.JPG";
+        }
+      </script>
     </center>
   </body>
 </html>
